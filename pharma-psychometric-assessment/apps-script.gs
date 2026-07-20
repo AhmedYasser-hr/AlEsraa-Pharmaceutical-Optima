@@ -25,7 +25,7 @@ const ADMIN_EMAIL = "demahs99@gmail.com"; // <-- CHANGE THIS
 // Base URL where you host index.html / results.html, no trailing slash.
 // Used to build the "view full results" link in the notification email.
 // e.g. "https://your-site.netlify.app"
-const SITE_URL = "PASTE_YOUR_SITE_URL_HERE"; // <-- CHANGE THIS
+const SITE_URL = "https://ahmedyasser-hr.github.io/AlEsraa-Pharmaceutical-Optima/"; // <-- CHANGE THIS
 const SHEET_NAME = "Responses";
 
 const COLS = [
